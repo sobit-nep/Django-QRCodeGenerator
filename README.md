@@ -63,9 +63,10 @@ This web application allows users to generate QR codes for any text or link inpu
 3. The generated QR code will be displayed on the screen.
 4. Click the "Download" button to download the QR code as a PNG image.
 5. Click the "Share" button to share the QR code through various platforms.
-![qr1](https://github.com/sobit-nep/Django-QRCodeGenerator/assets/65544518/17a4e212-de1e-45ad-8126-ae70d099c508)
 
-![qr2](https://github.com/sobit-nep/Django-QRCodeGenerator/assets/65544518/96d6a5df-4f28-4761-a9e2-b9fd1357ce02)
+![qr4](https://github.com/sobit-nep/Django-QRCodeGenerator/assets/65544518/ca054874-11dd-4e2d-80f1-362acd0f1f6e)
+![qr3](https://github.com/sobit-nep/Django-QRCodeGenerator/assets/65544518/ecd1e01d-4ff7-4bf0-85b9-b159cf456857)
+
 
 ## Contributing
 
